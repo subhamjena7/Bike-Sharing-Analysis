@@ -26,4 +26,3 @@ Apart from interesting real world applications of bike sharing systems, the char
 <li>Random Forest
 <li>Extra Tress
   
-**Mean Squared Error:** 0.3890
